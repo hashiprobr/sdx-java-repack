@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.firebase</groupId>
+  <artifactId>firebase-admin</artifactId>
+  <versioning>
+    <release>9.1.1-REPACK</release>
+    <versions>
+      <version>9.1.1-REPACK</version>
+    </versions>
+    <lastUpdated>20230504084859</lastUpdated>
+  </versioning>
+</metadata>
