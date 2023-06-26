@@ -3,10 +3,11 @@
   <groupId>com.google.firebase</groupId>
   <artifactId>firebase-admin</artifactId>
   <versioning>
-    <release>9.1.1-REPACK</release>
+    <release>9.2.0-REPACK</release>
     <versions>
       <version>9.1.1-REPACK</version>
+      <version>9.2.0-REPACK</version>
     </versions>
-    <lastUpdated>20230504084859</lastUpdated>
+    <lastUpdated>20230626190852</lastUpdated>
   </versioning>
 </metadata>
