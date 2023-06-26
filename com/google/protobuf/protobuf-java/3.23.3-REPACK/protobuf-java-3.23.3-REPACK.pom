@@ -4,10 +4,11 @@
   <parent>
     <groupId>com.google.protobuf</groupId>
     <artifactId>protobuf-parent</artifactId>
-    <version>3.23.3-REPACK</version>
+    <version>3.23.3</version>
   </parent>
 
   <artifactId>protobuf-java</artifactId>
+  <version>3.23.3-REPACK</version>
   <packaging>jar</packaging>
 
   <name>Protocol Buffers [Core]</name>
