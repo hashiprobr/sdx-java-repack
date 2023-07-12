@@ -1,4 +1,3 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Jul 12 11:00:40 BRT 2023
-protobuf-java-3.23.3-REPACK.jar>=
-protobuf-java-3.23.3-REPACK.pom>=
+#Wed Jul 12 11:01:14 BRT 2023
+protobuf-bom-3.23.3-REPACK.pom>=

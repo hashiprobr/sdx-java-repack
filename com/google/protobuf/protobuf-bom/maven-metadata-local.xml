@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.google.protobuf</groupId>
-  <artifactId>protobuf-java</artifactId>
+  <artifactId>protobuf-bom</artifactId>
   <versioning>
     <release>3.23.3-REPACK</release>
     <versions>
       <version>3.23.3-REPACK</version>
     </versions>
-    <lastUpdated>20230712140039</lastUpdated>
+    <lastUpdated>20230712140113</lastUpdated>
   </versioning>
 </metadata>
