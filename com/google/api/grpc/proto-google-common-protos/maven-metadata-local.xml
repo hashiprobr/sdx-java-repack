@@ -3,14 +3,15 @@
   <groupId>com.google.api.grpc</groupId>
   <artifactId>proto-google-common-protos</artifactId>
   <versioning>
-    <release>2.25.0-REPACK</release>
+    <release>2.25.1-REPACK</release>
     <versions>
       <version>2.17.0-REPACK</version>
       <version>2.21.0-REPACK</version>
       <version>2.22.0-REPACK</version>
       <version>2.23.0-REPACK</version>
       <version>2.25.0-REPACK</version>
+      <version>2.25.1-REPACK</version>
     </versions>
-    <lastUpdated>20230926162025</lastUpdated>
+    <lastUpdated>20230930163148</lastUpdated>
   </versioning>
 </metadata>
